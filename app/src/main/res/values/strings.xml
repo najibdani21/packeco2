@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">packeco</string>
+    <string name="search">Search</string>
+    <string name="dummyVendorname">Dummy Vendor Name</string>
+    <string name="dummyVendoraddr">Dummy Vendor Address</string>
+    <string name="dummyPackagename">Dummy Package</string>
+    <string name="dummyPackageprice">Dummy Price</string>
+    <string name="popular">Popular Packaging</string>
+    <string name="food">Food Packaging</string>
+    <string name="drink">Drink Packaging</string>
+    <string name="photo">Take a Photo</string>
+    <string name="desc">Description</string>
+    <string name="dummyDesc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur diam eget volutpat porta. Sed dictum id mi in facilisis. Suspendisse vehicula convallis efficitur. Nunc imperdiet velit ut est hendrerit, vel cursus libero pellentesque. Sed varius vel orci in finibus. Etiam eu enim justo. Duis tempor ipsum in sem aliquam, id vestibulum odio imperdiet. Curabitur condimentum sem lacus, nec mattis diam pharetra nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In ac erat at lorem mattis varius. Etiam eu risus metus.</string>
+    <string name="price">Price</string>
+    <string name="rating">Rating</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
